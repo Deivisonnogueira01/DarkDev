@@ -1,0 +1,70 @@
+
+
+body,html{            /*Corpo Site */
+  background-color:black;        /* ESTILO NETFLIX TITULO NO BANNER
+                                    MAIS INFORMSÇOES */
+  height: 100%;
+}
+
+
+
+.menu a{           /*Cabeçalho*/        /*fazer um final de cabeçalho top*/
+    color: white;
+    display: -moz-inline-stack;
+    font-size: 20px;
+    padding: 25px;
+ /*   box-sizing: content-box;
+    background-color: gray;
+    padding-bottom: 50px; */
+}
+
+.logo{           /* DarkDev */
+    width: 900px;
+    background-color:black;
+    margin: 100px auto;
+    border: 100px;
+    
+    
+}
+
+.image{     
+    width: 100%;
+    margin: 50px auto;
+    position: center;
+}
+
+.vaga_1{        /*Introduçao*/
+
+    font-family: "helvetica";
+    font-size: 29px;
+    color: white;
+    line-height: 40px;
+}
+
+.list{         /* Lista das Tecnologias*/
+    list-style-position: inside;
+    list-style-type: disc;
+    margin-left: 15px;
+    color: white;
+}
+
+.list li{
+font-size:  25px;
+color: white;
+margin-top: 6px;
+
+}
+
+.subtitulo{
+
+    font-family: "helvetica";
+    font-size: 20px;
+    color: white;
+}
+
+.fundo{     /*Final Escopo Site*/
+
+    font-family: "helvetica";
+    font-size: 20px;
+    color:white;
+}
